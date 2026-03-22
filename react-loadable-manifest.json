@@ -1,0 +1,22 @@
+{
+  "app\\page.tsx -> @/components/DNACanvas": {
+    "id": "app\\page.tsx -> @/components/DNACanvas",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_DNACanvas_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/SimilarityRing": {
+    "id": "app\\page.tsx -> @/components/SimilarityRing",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_SimilarityRing_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> @/lib/dna": {
+    "id": "app\\page.tsx -> @/lib/dna",
+    "files": []
+  },
+  "app\\page.tsx -> @/lib/supabase/client": {
+    "id": "app\\page.tsx -> @/lib/supabase/client",
+    "files": []
+  }
+}
